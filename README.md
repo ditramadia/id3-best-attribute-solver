@@ -4,7 +4,7 @@
   <h3 align="center">ID3 BEST ATTRIBUTE SOLVER</h3>
 
   <p align="center">
-    by Ditra Rizqa Amadia
+    by Ditra Amadia
     <br />
     <br />
   </p>
