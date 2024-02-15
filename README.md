@@ -45,13 +45,13 @@ Best attribute solver using ID3 algorithm for constructing decision tree.
 <!-- USAGE -->
 ## Usage
 
-1. Import an existing graph file from `test` folder
+1. Add your data into `data.py`
     <br/> 
     <br/> <img src="public/usage-input.png" alt="Logo" width="1280">
     <br/> 
     <br/> 
 
-2. Run the program
+2. Run the main program
     <br/> 
     <br/> <img src="public/usage-run.png" alt="Logo" width="1280">
     <br/> 
